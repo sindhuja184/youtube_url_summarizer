@@ -20,3 +20,4 @@ validators
 unstructured
 youtube_transcript_api
 pytube
+langchain_groq
